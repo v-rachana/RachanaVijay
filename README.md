@@ -1,7 +1,7 @@
 # Rachana Vijay — AI Engineer
 
-US Citizen 
-**M.A.S. AI @ Illinois Institute of Technology (GPA 3.85)  
+## US Citizen 
+M.A.S. AI @ Illinois Institute of Technology (GPA 3.85)  
 **Focus:** Applied ML, LLM systems (RAG + Agentic workflows), production-grade AI-ML services
 
 ---
